@@ -7,7 +7,7 @@ This repository contains visualizations that analyze and compare the physicochem
 
 ### 1. Change in Physicochemical Characteristics
 - **Sewage Wastewater - After Treatment**  
-  ![After Treatment]([visualizations/change_physicochemical_after_treatment.png])
+  ![After Treatment](1. Visualizations - Sewage Treatment Results/plots/Change in Physicochemical Characteristics in Sewage Wastewater - After Treatment.png)
   
 - **Sewage Wastewater - Control**  
   ![Control](visualizations/change_physicochemical_control.png)
