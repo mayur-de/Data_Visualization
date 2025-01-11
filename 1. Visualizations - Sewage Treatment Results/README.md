@@ -3,6 +3,11 @@
 ## **Overview**
 This repository contains visualizations that analyze and compare the physicochemical characteristics of sewage wastewater before and after treatment. These visualizations provide insights into treatment efficacy and control behavior.
 
+## 🌟 **Explore the Code and Outputs**
+Dive deeper into the analysis with the interactive notebook, featuring detailed **code snippets** and **visualizations**:
+
+🔗 [**Open the Notebook**](https://github.com/mayur-de/Data_Visualization/blob/3aeb076d91a4820f246cd696b26a7e671c6b01b1/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/Visualizations-%20Sewage%20Treatment%20Results.ipynb)
+
 ## **Visualizations**
 
 ### 1. Change in Physicochemical Characteristics
