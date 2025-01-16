@@ -1,16 +1,16 @@
-# **Data Visualization Repository**
+> # **Data Visualization Repository**
 
-## **Overview**
+> ## **Overview**
 - A repository for visualizations of various datasets.
 - Contains multiple data analysis projects using different visualization techniques.
 
-## **📊 Projects**
-### [**1. Sewage Treatment Results**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results)
+> ## **📊 Projects**
+> ### [**1. Sewage Treatment Results**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results)
 - **Focus**: Analyzing physicochemical changes in sewage wastewater before and after treatment.
 - [**More Details**](https://github.com/mayur-de/Data_Visualization/blob/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/README.md)
 - [**Visualizations**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/plots)
 
-## **🚀 How to Use**
+> ## **🚀 How to Use**
 - **Clone the repository**:
   ```bash
   git clone https://github.com/mayur-de/Data_Visualization.git
@@ -20,7 +20,7 @@
   - **Visualizations**: Found in the `plots/` directory.
   - **Data**: Raw data files in the `data/` folder.
 
-## **📁 Folder Structure**
+> ## **📁 Folder Structure**
 ```plaintext
 Data_Visualization/
 │
