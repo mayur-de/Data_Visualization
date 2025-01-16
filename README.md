@@ -30,9 +30,9 @@ Data_Visualization/
     └── data/              # Raw data
 ```
 
-## **💡 How to Contribute**
+> ## **💡 How to Contribute**
 - Fork the repo and submit a pull request for improvements or new visualizations.
 
-## **🎉 Acknowledgments**
+> ## **🎉 Acknowledgments**
 - Libraries: **Matplotlib**, **Seaborn**, **Plotly** for visualizations.
 - Datasets and resources from the open-source community.
