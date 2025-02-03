@@ -7,6 +7,7 @@
 > ## **📊 Projects**
 > ### 1. [**`Sewage Treatment Results`**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results)
 - **Focus**: Analyzing physicochemical changes in sewage wastewater before and after treatment.
+- [**`Open the Notebook`**](https://github.com/mayur-de/Data_Visualization/blob/0a5bbddd243413864790e95fb3125cbeb7020593/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/Visualizations-%20Sewage%20Treatment%20Results.ipynb)
 - [**`Open for More Information`**](https://github.com/mayur-de/Data_Visualization/blob/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/README.md)
 - [**`Open for Visualizations`**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/plots)
 
@@ -24,10 +25,11 @@
 ```plaintext
 Data_Visualization/
 │
-└── Sewage_Treatment_Results/
-    ├── Visualizations/    # Graphs and plots in .png/.jpeg format
-    ├── notebooks/         # Jupyter notebooks
-    └── data/              # Raw data
+└── data/                                                    # Raw data
+└── 1. Visualizations - Sewage_Treatment_Results/
+    ├── plots/                                               # Graphs and plots in .png/.jpeg format
+    ├── Visualizations- Sewage Treatment Results.ipynb/      # Jupyter notebooks
+
 ```
 
 > ## **💡 How to Contribute**
