@@ -5,10 +5,10 @@
 - Contains multiple data analysis projects using different visualization techniques.
 
 > ## **📊 Projects**
-> ### [**1. Sewage Treatment Results**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results)
+> ### 1. [**`Sewage Treatment Results`**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results)
 - **Focus**: Analyzing physicochemical changes in sewage wastewater before and after treatment.
-- [**More Details**](https://github.com/mayur-de/Data_Visualization/blob/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/README.md)
-- [**Visualizations**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/plots)
+- [**`Project Folder`:**](https://github.com/mayur-de/Data_Visualization/blob/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/README.md)
+- [**`Visualizations`:**](https://github.com/mayur-de/Data_Visualization/tree/61ae8e6d0282de8d9661b6f856df8656ce159350/1.%20Visualizations%20-%20Sewage%20Treatment%20Results/plots)
 
 > ## **🚀 How to Use**
 - **Clone the repository**:
