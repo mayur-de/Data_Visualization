@@ -25,7 +25,7 @@
 ```plaintext
 Data_Visualization/
 │
-└── data/                                                    # Raw data
+└── Datasets/                                                # Raw data
 └── 1. Visualizations - Sewage_Treatment_Results/
     ├── plots/                                               # Graphs and plots in .png/.jpeg format
     ├── Visualizations- Sewage Treatment Results.ipynb/      # Jupyter notebooks
